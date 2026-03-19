@@ -137,19 +137,19 @@ Start here: [https://serp.ly/gokollab-downloader](https://serp.ly/gokollab-downl
 
 ## FAQ
 
-**What kinds of content can I download from GoKollab?**  
+**What kinds of content can I download from GoKollab**  
 Videos, images, GIFs, and visible lesson text from supported pages.
 
-**Does it only work with videos?**  
+**Does it only work with videos**  
 No. The extension is built for mixed-media lesson pages, including non-video assets.
 
-**Can I bulk-download the full page content?**  
+**Can I bulk-download the full page content**  
 Yes. The extension supports bulk export for visible assets on the current page.
 
-**Does it support embedded platforms?**  
+**Does it support embedded platforms**  
 Yes. Supported embedded players include Loom, Vimeo, Wistia, and YouTube.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes
