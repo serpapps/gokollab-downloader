@@ -12,15 +12,15 @@ GoKollab Downloader is a browser extension built for mixed-media course pages. I
 
 ## Links
 
-- 🚀 Get it here: [GoKollab Downloader](https://serp.ly/gokollab-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/gokollab-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/gokollab-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/gokollab-downloader/issues)
+- ðŸš€ Get it here: [GoKollab Downloader](https://serp.ly/gokollab-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/gokollab-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/gokollab-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/gokollab-downloader/issues)
 
 ## Preview
 
-![GoKollab Downloader workflow preview](assets/workflow-preview.svg)
+![GoKollab Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
