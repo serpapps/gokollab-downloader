@@ -15,8 +15,6 @@ Use the product page above to get the browser extension and install instructions
 
 ![GoKollab Downloader](https://raw.githubusercontent.com/serpapps/gokollab-downloader/main/images/gokollab-downloader.gif)
 
-Browser extension for saving GoKollab workspace videos and supported embedded content as MP4 using your existing authenticated access.
-
 ## What It Does
 
 - Detects GoKollab native videos plus YouTube, Vimeo, Wistia, and Loom embeds
