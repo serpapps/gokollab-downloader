@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/gokollab-downloader",
+    "type": "library",
+    "description": "Download GoKollab course videos and courses for offline access",
+    "keywords": [
+        "gokollab-downloader",
+        "gokollab-video-downloader",
+        "browser-extension",
+        "course-video-downloader",
+        "membership-site-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/gokollab-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
