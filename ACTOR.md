@@ -2,18 +2,9 @@
 
 > Save GoKollab content instantly to your device.
 
-## Get the extension
+## Get it Here
 
-**Install here:** [GoKollab Downloader](https://serp.ly/gokollab-downloader)
-
-Use the product page above to get the browser extension and install instructions.
-
-- Product page: https://serp.ly/gokollab-downloader
-- Chrome Web Store: https://chromewebstore.google.com/detail/gokollab-downloader/ocmeocpipampilemclcclaokgbjejhab
-- GitHub repo: https://github.com/serpapps/gokollab-downloader
-- Latest release: https://github.com/serpapps/gokollab-downloader/releases/latest
-
-![GoKollab Downloader](https://raw.githubusercontent.com/serpapps/gokollab-downloader/main/images/gokollab-downloader.gif)
+Get it here: https://serp.ly/gokollab-downloader
 
 ## What It Does
 
