@@ -4,7 +4,7 @@
   "description": "Browser extension for saving GoKollab workspace videos and supported embedded content as MP4 using your existing authenticated access.",
   "input": "./INPUT_SCHEMA.json",
   "name": "gokollab-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "GoKollab Downloader",
   "version": "0.0"
 }
