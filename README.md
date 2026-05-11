@@ -10,6 +10,12 @@ GoKollab Downloader is a browser extension built for mixed-media course pages. I
 - Capture supported embedded players like Loom, Vimeo, Wistia, and YouTube
 - Bulk-download visible assets from the current lesson page
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=86Pq6QKoTyY" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gokollab-videos.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [GoKollab Downloader](https://serp.ly/gokollab-downloader)
@@ -20,7 +26,7 @@ GoKollab Downloader is a browser extension built for mixed-media course pages. I
 
 ## Preview
 
-![GoKollab Downloader workflow preview](assets/workflow-preview.webp)
+![GoKollab Downloader workflow preview](https://raw.githubusercontent.com/serpapps/gokollab-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
