@@ -1,11 +1,5 @@
 # GoKollab Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=86Pq6QKoTyY" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gokollab-videos.jpg" width="700px">
-</a>
-
 > Download videos, images, GIFs, and text from GoKollab course pages and supported GoHighLevel-powered portals.
 
 GoKollab Downloader is a browser extension built for mixed-media course pages. It helps you save lesson videos, images, GIFs, and page text from GoKollab and supported GoHighLevel-powered learning portals, using a single browser workflow instead of separate tools for each content type.
