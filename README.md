@@ -20,7 +20,9 @@ GoKollab Downloader is a browser extension built for mixed-media course pages. I
 
 ## Preview
 
-![GoKollab Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=86Pq6QKoTyY" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-gokollab-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
