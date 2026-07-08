@@ -1,4 +1,4 @@
-# GoKollab Downloader (Browser Extension)
+# GoKollab Video Downloader (Browser Extension)
 
 > Download videos, images, GIFs, and text from GoKollab course pages and supported GoHighLevel-powered portals.
 
@@ -12,7 +12,7 @@ GoKollab Downloader is a browser extension built for mixed-media course pages. I
 
 ## Links
 
-- :rocket: Get it here: [GoKollab Downloader](https://serp.ly/gokollab-downloader)
+- :rocket: Get it here: [GoKollab Downloader](https://serp.ly/gokollab-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/gokollab-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/gokollab-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on content you can already access in your active browse
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/gokollab-downloader](https://serp.ly/gokollab-downloader)
+Start here: [https://serp.ly/gokollab-downloader?via=github](https://serp.ly/gokollab-downloader?via=github)
 
 ## Installation Instructions
 
